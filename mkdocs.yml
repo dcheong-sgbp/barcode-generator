@@ -1,0 +1,8 @@
+site_name: Barcode Generator
+site_description: Generate a scannable Code 128 barcode and download it as PNG.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
