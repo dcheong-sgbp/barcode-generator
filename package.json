@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/barcode-generator",
+  "version": "1.0.0",
+  "description": "Generate a scannable Code 128 barcode and download it as PNG. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "barcode-generator.js",
+  "unpkg": "barcode-generator.js",
+  "files": ["barcode-generator.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "barcode generator", "code 128 generator", "create barcode"],
+  "homepage": "https://sgbp.tech/tools/barcode-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
